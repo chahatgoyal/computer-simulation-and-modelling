@@ -9,7 +9,7 @@ Users are encouraged to be thorough with the algorithms before diving into the c
 
 References: 
 1. Discrete-Event System Simulation by Jerry Banks
-1. Computer Simulation and Medelling by Abhijit Joshi
+1. Computer Simulation and Modelling by Abhijit Joshi
 
 Note that the content presented here is solely for pedagogical purposes and is neither endorsed by nor holds any attribution to 
 the University of Mumbai.
